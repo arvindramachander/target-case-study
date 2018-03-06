@@ -33,5 +33,13 @@ Postman: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcdd
 
 ![image](https://user-images.githubusercontent.com/23511695/37051045-17443f10-213b-11e8-8a54-e00ba7081a1a.png)
 
+# GET : Product is in DB but title not returned from the external API
 
+ MongoDB :
+ 
+ ![image](https://user-images.githubusercontent.com/23511695/37051217-6ffca228-213b-11e8-8b21-458258fc9056.png)
+ 
+ Response :
+ 
+ ![image](https://user-images.githubusercontent.com/23511695/37051244-83de5d9a-213b-11e8-85bc-bddda197ea29.png)
  
