@@ -43,3 +43,11 @@ Postman: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcdd
  
  ![image](https://user-images.githubusercontent.com/23511695/37051244-83de5d9a-213b-11e8-85bc-bddda197ea29.png)
  
+# PUT : Product is in DB.
+
+![image](https://user-images.githubusercontent.com/23511695/37051343-c7715ec2-213b-11e8-9bbc-9ef209c57fe0.png)
+
+# PUT : ProductId in request does not match with body.
+
+![image](https://user-images.githubusercontent.com/23511695/37051405-f43fadf0-213b-11e8-9539-ee4526b39a32.png)
+ 
