@@ -24,6 +24,10 @@ Postman: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcdd
 > db.price.insert([{ "_id" : "13860428", "price" : "100", "currency" : "USD" } }])
 5) Run the gradle tasks clean,build under build and bootRun under application to start the application.
 
+#GET : Product is in DB and Title is returned from the external API.
+
+![image](https://user-images.githubusercontent.com/23511695/37050541-baa2a9f0-2139-11e8-9e1b-1acf80d6d4e1.png)
+
 
 
  
