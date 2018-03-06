@@ -29,6 +29,9 @@ Postman: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcdd
 
 ![image](https://user-images.githubusercontent.com/23511695/37050541-baa2a9f0-2139-11e8-9e1b-1acf80d6d4e1.png)
 
+# GET : Product is not in the DB.
+
+![image](https://user-images.githubusercontent.com/23511695/37051045-17443f10-213b-11e8-8a54-e00ba7081a1a.png)
 
 
  
