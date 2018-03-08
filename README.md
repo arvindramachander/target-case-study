@@ -21,7 +21,7 @@ Postman: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcdd
 2) Import the project as Gradle project in Eclipse.
 3) Update the log file location in application.properties and DB name in application.yml files.
 4) Run the following DML Statement to insert data into MongoDB :
-> db.price.insert([{ "_id" : "13860428", "price" : "100", "currency" : "USD" } }])
+> db.price.insert([{ "_id" : "13860428", "price" : "100", "currency" : "USD" }])
 5) Run the gradle tasks clean,build under build and bootRun under application to start the application.
 
 
